@@ -1,0 +1,122 @@
+body{
+  font-family: 'Open Sans';
+}
+
+/*top navigation bar: yellow*/
+.topnavbar{
+  position: relative;
+  height: 30px;
+  width: 100%;
+  background-color: #FFC101;
+
+}
+.intop{
+  margin-right: 120px;
+  padding: 5px;
+  text-align: right;
+  font-family: 'Open Sans';
+  font-size:14px;
+}
+
+/*logo + hrcname table*/
+
+.logo{
+  float: left;
+  margin-top: 10px;
+  margin-right: none;
+  margin-bottom: none;
+  margin-left: 100px;
+
+}
+.headtable{
+  margin-top: 20px;
+  margin: none;
+}
+.head1{
+  color: #b04400;
+  font-family: 'Times';
+  font-weight: bold;
+  font-size: 36px;
+  margin-top:20px;
+  padding:5px;
+  text-align: center;
+}
+
+.head2{
+  font-family: 'Open Sans';
+  text-align: center;
+  margin-top: -25px;
+  font-size: 21px;
+  font-weight: 800;
+}
+
+.head3{
+  font-family: 'Open Sans';
+  margin-top: -20px;
+  font-size: 15px;
+  font-weight: 100;
+  text-align: center;
+}
+
+
+
+
+
+/*top navbar + footer*/
+a.headlinks{
+  color: black;
+  text-decoration:none;
+}
+
+a.footlinks{
+    font-family: 'Open Sans';
+    color:white;
+    text-decoration: none;
+}
+a.headlinks:hover{
+  text-decoration: underline;
+  color: black;
+}
+a.footlinks:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+.social-icons{
+  padding-top:9px;
+  color:white;
+  text-decoration:none;
+}
+.social-ic{
+  color:white;
+  text-decoration:none;
+}
+.social-ic:hover{
+  color:white;
+  text-decoration:none;
+}
+.foot{
+  color:white;
+  text-align: center;
+  font-family: 'Open Sans';
+  background-color: #b04400;
+  padding:30px;
+  /*margin:-7px;*/
+  bottom: 0;
+}
+
+.footlinks-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.footlinks-list li{
+  display: inline;
+  padding: 10px;
+}
+footer{
+  position: absolute;
+
+  width: 100%;
+}

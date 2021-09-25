@@ -1,0 +1,133 @@
+hr{
+  color:#ccccbe;
+}
+
+.gallery{
+  background-color: white;
+  border-top: 1px solid #ccccbe;
+  padding:20px;
+  margin:10px;
+}
+
+.gal-head{
+  font-family: 'Open Sans';
+  font-size: 25px;
+  font-weight: 300;
+  color:#b04400;
+  text-align: center;
+}
+
+
+figcaption{
+  font-family: 'Open Sans';
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.icon-border{
+  border: 3px solid ;
+  border-color: #b04400;
+  border-radius: 50%;
+  border-image-width: 10px;
+}
+.icon1{
+  height:100px;
+  width:100px;
+  padding:5px 10px 10px 10px;
+}
+
+.icon2{
+  height:105px;
+  width:100px;
+  padding:5px 0px 10px 20px;
+}
+
+.icon3{
+  height:100px;
+  width:100px;
+  padding:5px 10px 10px 10px;
+}
+
+.icon4{
+  height:100px;
+  width:100px;
+  padding:13px 10px 5px 10px;
+}
+.icon5{
+  height:100px;
+  width:100px;
+  padding:5px 10px 10px 10px;
+}
+.icon6{
+  height:105px;
+  width:105px;
+  padding:10px 5px 5px 10px;
+}
+
+.icon8{
+  padding:10px 0px 13px 20px;
+  height:100px;
+  width:100px;
+}
+
+.icon9{
+  padding:2px 2px 2px 2px;
+  height:100px;
+  width:100px;
+}
+
+.icon10{
+  padding:11px 10px 11px 10px;
+  height:100px;
+  width:100px;
+}
+
+.icon11{
+  padding:0px 9px 9px 19px;
+  height:100px;
+  width:100px;
+}
+
+.icon12{
+  padding:10px 0px 15px 5px;
+  height:100px;
+  width:100px;
+}
+
+
+.icon13{
+  padding:10px 5px 10px 17.5px;
+  height:100px;
+  width:100px;
+}
+
+.iconstd{
+  width: 180px;
+  height: 180px;
+  text-align: center;
+}
+
+.icon-table{
+  position: absolute;
+  margin:18px;
+  padding:7px;
+  left:5%;
+}
+.iconstd a{
+  text-decoration: none;
+  color:black;
+}
+
+.iconstd:hover{
+  background-color: #b04400;
+  border-radius:3%;
+  color: white;
+}
+
+.iconstd:hover a{
+  color: white;
+  text-decoration: none;
+}
+.iconstd:hover .icon-border{
+  background-color: white;
+}
