@@ -7,7 +7,7 @@
 }
 .navbar-toggler {
     top: -66px;
-    position: absolute;
+    position: relative;
     right: 0;
 }
 .container{ width: 100%; }
@@ -76,6 +76,9 @@
   position: relative;
 }
 
+.dropdown-submenu a{
+  text-decoration: none;
+}
 .dropdown-submenu .dropdown-menu {
   top: 0;
   left: 100%;
